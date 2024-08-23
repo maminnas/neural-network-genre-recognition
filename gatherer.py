@@ -3,8 +3,8 @@ import spotipy
 import spotipy.util as util
 import urllib2
 
-# export SPOTIPY_CLIENT_ID='4703020e6c6643448a29e593df0ad64c'
-# export SPOTIPY_CLIENT_SECRET='74e38f246ccf4ab2b384f4377bd0ef28'
+# export SPOTIPY_CLIENT_ID='<ID>'
+# export SPOTIPY_CLIENT_SECRET='<SECRET>'
 # export SPOTIPY_REDIRECT_URI=''
 
 class Data: pass
